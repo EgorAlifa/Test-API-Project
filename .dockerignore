@@ -1,0 +1,8 @@
+api.log
+venv/
+__pycache__/
+.git/
+*.pyc
+*.pyo
+*.pyd
+.Python
