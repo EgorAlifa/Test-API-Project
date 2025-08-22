@@ -16,4 +16,5 @@ docker run -d \
   test-api
 
 echo "✅ Готово! API доступен на http://37.252.23.30:8000"
+echo "📋 Документация: http://37.252.23.30:8000/docs"
 docker ps | grep test-api
