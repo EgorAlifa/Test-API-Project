@@ -73,7 +73,7 @@ async def test_endpoint():
     """
     Простой тестовый эндпоинт
     """
-    return {"message": "Тестовый эндпоинт работает!", "timestamp": "2025-08-22"}
+    return {"message": "Вот и рабратает"customUrl"!", "timestamp": "2025-08-29"}
 
 @app.get("/api/health")
 async def health_check():
